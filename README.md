@@ -25,10 +25,6 @@
 
 <h2 align="center">Mi stack de Tecnologías 👨🏻‍💻</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,oracledb,mysql,laravel,js,ts,html,css,tailwind,react,nextjs,astro,elementor,firebase,dart,flutter,reactnative,stripe,paypal,mercadopago,git,docker&perline=10" />
-  </a>
-<p align="left">
   <!-- Línea 1 -->
   <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40" />
   <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40" />
@@ -59,7 +55,6 @@
   <img src="https://cdn.simpleicons.org/mercadopago/009EE3" alt="MercadoPago" width="40" />
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" />
-</p>
   
 </p>
 
