@@ -28,13 +28,14 @@
   <!-- Línea 1 -->
   <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40" />
   <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle DB" width="40" />
+  <img src="https://cdn.simpleicons.org/mongodb/E3F26" alt="Mongo DB" width="40" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" />
+  <img src="https://cdn.simpleicons.org/mariadb/1572B6" alt="MariaDB" width="40" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" width="40" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" width="40" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" />
   <br/>
 
