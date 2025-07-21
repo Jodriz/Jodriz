@@ -28,8 +28,42 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,php,oracledb,mysql,laravel,js,ts,html,css,tailwind,react,nextjs,astro,elementor,firebase,dart,flutter,reactnative,stripe,paypal,mercadopago,git,docker&perline=10" />
   </a>
+<p align="left">
+  <!-- Línea 1 -->
+  <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle DB" width="40" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" width="40" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" />
+  <br/>
+
+  <!-- Línea 2 -->
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" />
+  <img src="https://cdn.simpleicons.org/next.js/000000" alt="Next.js" width="40" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" alt="Astro" width="40" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="Elementor" width="40" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="40" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="40" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" width="40" />
+  <img src="https://cdn.simpleicons.org/stripe/008CDD" alt="Stripe" width="40" />
+  <img src="https://cdn.simpleicons.org/paypal/00457C" alt="PayPal" width="40" />
+  <br/>
+
+  <!-- Línea 3 -->
+  <img src="https://cdn.simpleicons.org/mercadopago/009EE3" alt="MercadoPago" width="40" />
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" />
 </p>
-<h3 align="center">Y creciendo... 👨🏻‍💻</h2>
+  
+</p>
+
+<h3 align="center">Y creciendo... 🏆</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
