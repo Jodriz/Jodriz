@@ -23,12 +23,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">Tecnologías Que Domino 👨🏻‍💻</h2>
+<h2 align="center">Mi stack de Tecnologías 👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,postgres,mysql,laravel,nestjs,js,ts,html,css,tailwind,react,nextjs,astro,wordpress,elementor,firebase,dart,flutter,reactnative,stripe,paypal,mercadopago,git,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,oracledb,mysql,laravel,js,ts,html,css,tailwind,react,nextjs,astro,elementor,firebase,dart,flutter,reactnative,stripe,paypal,mercadopago,git,docker&perline=10" />
   </a>
 </p>
+<h3 align="center">Y creciendo... 👨🏻‍💻</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -63,7 +64,7 @@
 
 <h2 align="center">Conéctate Conmigo 🤝</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/Jostin-yujra-997b52260" target="_blank">
+  <a href="https://www.linkedin.com/in/jostin-andres-rodriguez-zambrano-81a2b1327/" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" />
   </a>
   &nbsp; <a href="mailto:jarzta99@gmail.com" target="_blank">
