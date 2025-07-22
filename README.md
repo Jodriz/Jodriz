@@ -26,6 +26,7 @@
 <h2 align="center">Mi stack de Tecnologías 👨🏻‍💻</h2>
 <p align="center">
   <!-- Línea 1 -->
+  <img src="https://cdn.simpleicons.org/python/yellow" alt="Python" width="40" />
   <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40" />
   <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40" />
   <img src="https://cdn.simpleicons.org/mongodb/E3F26" alt="Mongo DB" width="40" />
