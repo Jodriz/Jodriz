@@ -46,6 +46,7 @@
   <img src="https://cdn.simpleicons.org/astro/FF5D01" alt="Astro" width="40" />
   <!-- <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="Elementor" width="40" /> -->
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" />
+  <br/>
   <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="40" />
   <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="40" />
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" />
