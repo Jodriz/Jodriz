@@ -90,7 +90,7 @@
 <div align="center">
   <br>
   <p>🐍 Mis Contribuciones Deslizándose por Aquí 🐍</p>
-  <img src="https://raw.githubusercontent.com/Jodriz/output/github-contribution-grid-snake-dark.svg" alt="Animación de Serpiente - Contribuciones de Jostin" />
+  <img src="output/github-contribution-grid-snake-dark.svg" alt="Animación de Serpiente - Contribuciones de Jostin" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
