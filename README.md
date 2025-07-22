@@ -59,7 +59,7 @@
   <img src="https://cdn.simpleicons.org/stripe/008CDD" alt="Stripe" width="40" />
   <img src="https://cdn.simpleicons.org/paypal/00457C" alt="PayPal" width="40" /> -->
   <!-- <img src="https://cdn.simpleicons.org/mercadopago/009EE3" alt="MercadoPago" width="40" /> -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi)](https://github.com/SrGobi/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodriz)](https://github.com/Jodriz/github-readme-stats)
 </p>
 
 <h3 align="center">Y creciendo... 🏆</h2>
