@@ -33,7 +33,7 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" />
   <img src="https://cdn.simpleicons.org/mariadb/1572B6" alt="MariaDB" width="40" />
   <br/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" />
+  <!-- <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" /> -->
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" />
