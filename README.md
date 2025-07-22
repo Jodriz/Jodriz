@@ -43,19 +43,19 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" />
   <img src="https://cdn.simpleicons.org/next.js/000000" alt="Next.js" width="40" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" alt="Astro" width="40" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="Elementor" width="40" />
+  <!-- <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="Elementor" width="40" /> -->
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" />
   <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="40" />
   <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="40" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" width="40" />
-  <img src="https://cdn.simpleicons.org/stripe/008CDD" alt="Stripe" width="40" />
-  <img src="https://cdn.simpleicons.org/paypal/00457C" alt="PayPal" width="40" />
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" />
   <br/>
 
   <!-- Línea 3 -->
-  <img src="https://cdn.simpleicons.org/mercadopago/009EE3" alt="MercadoPago" width="40" />
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" />
+  <!-- <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" width="40" />
+  <img src="https://cdn.simpleicons.org/stripe/008CDD" alt="Stripe" width="40" />
+  <img src="https://cdn.simpleicons.org/paypal/00457C" alt="PayPal" width="40" /> -->
+  <!-- <img src="https://cdn.simpleicons.org/mercadopago/009EE3" alt="MercadoPago" width="40" /> -->
   
 </p>
 
